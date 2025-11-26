@@ -85,7 +85,7 @@ public class Altar_Model implements Listener {
     	}
     }
     
-    public void deleteAltarCurrentMap(int altar_id) { // POR ALGUM MOTIVO NAO FUNCIONA DESGRAÇAAAAAAAAAAAAAAAAAAAAAAAAAA VAI TOMA NO
+    public void deleteAltarCurrentMap(int altar_id) { 
     	altar_hp.remove(altar_id);
     }
     
@@ -701,3 +701,4 @@ altar-defeat:
    */
 
 	
+
